@@ -8,3 +8,8 @@
 - form-data: perform auth requests from GitHub
 - dotenv: To load the configurations from .env file
 - cross-fetch: a polyfill that will add the fetch method to the node environment
+
+1. Creating bleesed-box element in App.tsx
+2. Mount our App component in index.tsx
+3. setting up .babelrc to be able to use babel-node to run our scripts
+4.
